@@ -1,0 +1,18 @@
+table{
+    width : 400px;
+
+}
+th,caption{
+    text-align: left;
+}
+table,th,td{
+    border: 1px solid #000;
+
+}
+th,td{
+    padding : 5px;
+}
+tr:nth-child(even){
+    background-color: #ddd;
+    
+}

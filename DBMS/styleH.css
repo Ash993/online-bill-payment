@@ -1,0 +1,28 @@
+body{
+    margin : 0;
+    padding : 0;
+    font-family:  sans-serif;
+    background: url(adbg.jpg) no-repeat;
+    background-size: cover;
+}
+body h1{
+    width: 280px;
+    position : absolute;
+    top: 25%;
+    left : 50%;
+    transform: translate(-50%,-50%);
+    color:white;
+    float : left;
+    font-size: 40px;
+    border-bottom:6px solid #03a999;
+    padding : 13px 0
+}
+
+.user{
+    width: 280px;
+    position : absolute;
+    top: 50%;
+    left : 65%;
+    transform: translate(-50%,-50%);
+    color:white;
+}
